@@ -16,7 +16,7 @@ Beyond this, it would appear as though rural areas experienced the lowest number
 
 **SUMMARY**
 
-**1)**	Given the trends highlighted above, I would opt the company of PyBer to pursue further investment and development into urban areas. Though some profitability remains in suburban areas, Urban cities experienced the highest fares consistently and without any real contest when compared to both Suburban and Rural areas that were tracked. This trend is likely to continue going forward.
+**1)**	Given the trends highlighted above, I would opt the company of PyBer to pursue further investment and development into urban areas. Though some profitability remains in suburban areas, Urban cities experienced the highest fares consistently and without any real contest when compared to both Suburban and Rural cities. This trend is likely to continue going forward.
 
 **2)**	To help meet this potential growth in profitability in investing in urban areas, I would also encourage PyBer to invest in more drivers for Urban areas. Despite having the largest volume of drivers anyways, Urban city drivers also contain the lowest fare rates when compared to more costly suburban and rural drivers.
 
